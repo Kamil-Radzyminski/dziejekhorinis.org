@@ -37,3 +37,8 @@
 {
     background-image: url(../images/icon-language-en.png);
 }
+
+#languages > #language-cz
+{
+    background-image: url(../images/icon-language-cz.png);
+}
